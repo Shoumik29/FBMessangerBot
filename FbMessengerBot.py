@@ -25,5 +25,5 @@ class Shomik(Client):
                 self.markAsDelivered(author_id, thread_id)
 
 
-client = Shomik("shomik20@gmail.com", "****")
+client = Shomik("********.com", "****")
 client.listen()
